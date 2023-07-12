@@ -14,7 +14,7 @@ As a startup or investor, I want to create a profile detailing my business and i
 
 As a startup, I can: <br>
 
-Create an account and enter necessary details about my business and funding needs. <br>
+Create an account and enter the necessary details about my business and funding needs. <br>
 Manage my profile and track the interest of investors in my startup. <br>
 Access a secure messaging system to interact with potential investors. <br>
 Receive notifications when investors express interest in my startup. <br>
@@ -34,6 +34,7 @@ Invest in startups that they're interested in via Stripe. <br>
 
 
 ## Github Repository:
+https://github.com/bragceo/LFKs-StartUpMatchMaker-App
 
 ## Prior Gituhub Repository 
 https://github.com/kylechau123/Startup-MatchMaker
