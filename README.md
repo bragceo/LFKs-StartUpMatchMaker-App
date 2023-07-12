@@ -40,6 +40,15 @@ https://github.com/bragceo/LFKs-StartUpMatchMaker-App
 https://github.com/kylechau123/Startup-MatchMaker
 We were having issues merging all our code and ran into errors. As such, we were advised to start a new repo (see above). However, please refer to the following repo to see all past work/commits/etc. https://github.com/kylechau123/Startup-MatchMaker
 
+## Screenshot
+![Screen Shot 2023-07-12 at 7 53 17 PM](https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/b39eff9b-3691-4a01-a9b6-306f27cdb50a)
+<img width="727" alt="Screen Shot 2023-07-12 at 7 54 46 PM" src="https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/df98a542-3b82-4ac7-9f50-30ff1789b21d">
+![Screen Shot 2023-07-12 at 7 55 30 PM](https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/338890ad-a100-4d06-84af-669be83a7fb7)
+![Screen Shot 2023-07-12 at 7 52 19 PM](https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/56376205-326a-4521-b361-c4cc07bb20ce)
+![Screen Shot 2023-07-12 at 7 54 53 PM](https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/3b649533-957b-4c83-bed3-0588776a01c1)
+![Screen Shot 2023-07-12 at 7 54 20 PM](https://github.com/bragceo/LFKs-StartUpMatchMaker-App/assets/119948453/158b6033-1ee1-405e-8cd3-213af7c1411e)
+
+
 
 ## Overview of Code structure and its components:
 
