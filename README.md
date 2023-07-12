@@ -35,6 +35,10 @@ Invest in startups that they're interested in via Stripe. <br>
 
 ## Github Repository:
 
+## Prior Gituhub Repository 
+https://github.com/kylechau123/Startup-MatchMaker
+We were having issues merging all our code and ran into errors. As such, we were advised to start a new repo (see above). However, please refer to the following repo to see all past work/commits/etc. https://github.com/kylechau123/Startup-MatchMaker
+
 
 ## Overview of Code structure and its components:
 
@@ -80,7 +84,7 @@ The application should now be running on port 3000.
 Special Thanks
 Shout out to the awesome Instructors and TAs who worked with me through numerous challenges. These individuals include: Diego, Enrique Gomes, Joem Casusi, and Erik Hoverstein.
 
-Authors
+## Authors <br>
 Lavell Juan <br>
 Kyle Chau <br>
 Fady Khalil <br>
